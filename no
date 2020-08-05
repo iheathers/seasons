@@ -1,0 +1,29 @@
+[33mcommit 8388397235d3fb20c5662018811f0f7b0a681a76[m[33m ([m[1;36mHEAD -> [m[1;32mtest-branch[m[33m)[m
+Author: iheathers <shresthapritam7@gmail.com>
+Date:   Wed Aug 5 11:37:59 2020 +0545
+
+    Revert back to original
+
+[33mcommit cc77cee98037c5c8a884bc02f985d05286aef7d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: iheathers <shresthapritam7@gmail.com>
+Date:   Wed Aug 5 11:23:29 2020 +0545
+
+    Made some test changes for branch
+
+[33mcommit 82e1efe8067392d3a31d22001b41624d4a7dbf47[m[33m ([m[1;31morigin/branch-demo[m[33m)[m
+Author: iheathers <shresthapritam7@gmail.com>
+Date:   Wed Jul 22 13:10:33 2020 +0545
+
+    Add gh-pages in config
+
+[33mcommit e823858cde8fd86891a729c010f263ddc225ee27[m
+Author: iheathers <shresthapritam7@gmail.com>
+Date:   Wed Jul 22 13:01:34 2020 +0545
+
+    Add config to deploy at gh-pages
+
+[33mcommit ba2c15d27b4e67d6cc441dba65eee16da8157227[m
+Author: iheathers <shresthapritam7@gmail.com>
+Date:   Sun Jul 19 16:37:56 2020 +0545
+
+    Initial Commit
